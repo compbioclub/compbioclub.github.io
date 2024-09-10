@@ -1,1 +1,0 @@
-Anna Jiang, the research assistant.
