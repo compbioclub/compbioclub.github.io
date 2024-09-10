@@ -1,1 +1,4 @@
-Lingxi Chen, the PI of CompBioClub. [Personal Page](https://thelingxichen.github.io/). 
+Lingxi Chen, the PI. [Personal Page](https://thelingxichen.github.io/). 
+
++ Dr. Chen is a highly motivated researcher who holds a BSc in Computer Science from the University of Nottingham, an MSc in Web Science and Big Data Analytics from University College London, and a PhD in Computer Science from City University of Hong Kong. Her research area is computational biology, and she has published high-impact SCI papers in journals such as Nature Communications, Nucleic Acids Research, The Lancet Digital Health, etc. In Dec 2023, she joined the Department of Biomedical Sciences as an assistant professor. 
++ She is passionate about applying computer science and artificial intelligence to solve critical challenges in biomedical fields, such as cancer, complex diseases, and animal health. Her research interests span four distinct domains: `Single-Cell and Spatial Omics`, `Genomic Structural Aberrations`, `AI in Healthcare`, and `Online Biomedical Platforms`.

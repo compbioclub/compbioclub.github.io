@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Members of the CompBioClub
+title: People
+description: Talented Lab Members of CompBioClub
 nav: true
 nav_order: 7
 
@@ -14,9 +14,9 @@ profiles:
     content: about_lingxi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>lingxi.chen@cityu.edu.hk</p>
+      <p>+852-3442 2714</p>
+      <p>TYB-1B-109, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
   - align: left
     image: lyuchengshang.jpg
     content: about_chengshang.md
@@ -24,13 +24,21 @@ profiles:
     more_info: >
       <p>cs.lyu@my.cityu.edu.hk</p>
       <p>+852-3442 6967</p>
-      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong</p>
+      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
   - align: left
-    image: jianganna.jpg
+    #image: jianganna.jpg
     content: about_anna.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>anna.jiang@my.cityu.edu.hk</p>
       <p>+852-3442 6967</p>
-      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong</p>
+      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
+  - align: left
+    #image: jianganna.jpg
+    content: about_ug.md
+    image_circular: false # crops the image to make it circular
+    #more_info: >
+    #  <p>anna.jiang@my.cityu.edu.hk</p>
+    #  <p>+852-3442 6967</p>
+    #  <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>      
 ---
