@@ -1,6 +1,6 @@
-- Ka Ho NG, year 3 undergraduate from CS, PMS placement (2024-2025).
-- Yihan Mao, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-- Haochen Liu, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-- Qinlin Chen, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-- Yichen Guo, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-- Ruixuan Zha, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
+Ka Ho NG, year 3 undergraduate from CS, PMS placement (2024-2025).
+Yihan Mao, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
+Haochen Liu, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
+Qinlin Chen, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
+Yichen Guo, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
+Ruixuan Zha, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).

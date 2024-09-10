@@ -12,27 +12,15 @@ profiles:
   - align: right
     image: chenlingxi.jpg
     content: about_lingxi.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>lingxi.chen@cityu.edu.hk</p>
-      <p>+852-3442 2714</p>
-      <p>TYB-1B-109, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
+    image_circular: true # crops the image to make it circular
   - align: left
     image: lyuchengshang.jpg
-    content: about_chengshang.md
+    content: about_phd.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>cs.lyu@my.cityu.edu.hk</p>
-      <p>+852-3442 6967</p>
-      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
   - align: left
     #image: jianganna.jpg
-    content: about_anna.md
+    content: about_ra.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>anna.jiang@my.cityu.edu.hk</p>
-      <p>+852-3442 6967</p>
-      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
   - align: left
     content: about_ug.md
 ---
