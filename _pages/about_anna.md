@@ -1,1 +1,1 @@
-Anna Jiang, the Research Assistant of CompBioClub.
+Anna Jiang, the research assistant.
