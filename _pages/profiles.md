@@ -34,11 +34,5 @@ profiles:
       <p>+852-3442 6967</p>
       <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>
   - align: left
-    #image: jianganna.jpg
     content: about_ug.md
-    image_circular: false # crops the image to make it circular
-    #more_info: >
-    #  <p>anna.jiang@my.cityu.edu.hk</p>
-    #  <p>+852-3442 6967</p>
-    #  <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong, Hong Kong</p>      
 ---
