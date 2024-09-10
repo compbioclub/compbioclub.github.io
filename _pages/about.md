@@ -1,28 +1,21 @@
 ---
-layout: page
+layout: about
+title: about
 permalink: /
-title: your name
-description: Affiliations. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
-
-<br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your Facebook, Twitter, LinkedIn, or just disable all of them.
-
-
-<br/>
-<hr/>
-<br/>
-<span class="contacticon center">
-  <a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-  <a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-  <a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-  <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
-
-<div class="col three caption">
-  You can even add a little note about which of these is the best way to reach you.
-</div>
+Welcome to CompBioClub! We are a group of computational biologists studied and worked at the Department of Biomedical Science, City University of Hong Kong.
