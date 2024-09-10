@@ -13,6 +13,8 @@ profiles:
     image: chenlingxi.jpg
     content: about_lingxi.md
     image_circular: true # crops the image to make it circular
+    image_width: 5
+    image_height: 5
   - align: left
     image: lyuchengshang.jpg
     content: about_phd.md
