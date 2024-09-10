@@ -22,9 +22,9 @@ profiles:
     content: about_chengshang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>cs.lyu@my.cityu.edu.hk</p>
+      <p>+852-3442 6967</p>
+      <p>TYB-2-315, City University of Hong Kong, 31 To Yuen Street, Kowloon Tong</p>
   - align: left
     image: jianganna.jpg
     content: about_anna.md
