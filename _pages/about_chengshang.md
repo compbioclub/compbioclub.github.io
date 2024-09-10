@@ -1,6 +1,6 @@
-LYU Chengshang, the PhD student of CompBioClub directed by Prof. CHEN Lingxi.
+Chengshang Lyu, the PhD student of CompBioClub directed by Prof. Lingxi Chen.
 
-+ I received my B.Eng. in Information Engineering from Xi’an Jiaotong University and M.Eng. in Bioinformatics from CAS Center for Excellence in Molecular Cell Science supervised by Prof. LIU Xiaoping and P.I. CHEN Luonan.
++ I received my B.Eng. in Information Engineering from Xi’an Jiaotong University and M.Eng. in Bioinformatics from CAS Center for Excellence in Molecular Cell Science.
 
 + My research interest mainly includes Dynamic Network Biomarker (DNB), Sample Specific Network (SSN), Gene Regulatory Network (GRN), Entropy, Single-cell/Spatial Multi-omics.
 
