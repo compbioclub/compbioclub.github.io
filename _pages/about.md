@@ -6,18 +6,20 @@ subtitle: <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a> |
 
 profile:
   align: right
-  image: compbioclub.jpg
+  #image: compbioclub.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>It's as if the Monkey King/Queen wields computer science and AI like a golden cudgel, navigating the vast ocean of biomedical science to ultimately uncover the true scripture of knowledge.</p>
-    <p>Image credited to パプリカ.</p>
+  #more_info: >
+  #  <p></p>
+  #  <p></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-> Welcome to CompBioClub! We are a group of computational biologists studied and worked at the Department of Biomedical Science, City University of Hong Kong. Led by [Dr. Lingxi Chen](https://thelingxichen.github.io/), our group is dedicated to brige the gap between biomedical science and computational science.
+> Welcome to CompBioClub! We are a group of computational biologists studied and worked at the Department of Biomedical Science, City University of Hong Kong. Led by [Dr. Lingxi Chen](https://thelingxichen.github.io/), it's as if the Monkey King/Queen wields computer science and AI like a golden cudgel, navigating the vast ocean of biomedical science to ultimately uncover the true scripture of knowledge (Image credited to パプリカ).
+
+<img src='/assets/img/compbioclub.jpg'></img>
 
 ### Hiring 
 > We are seeking talented and passionate <a href='/hiring'>Research Assistants and PhD candidates</a>.
