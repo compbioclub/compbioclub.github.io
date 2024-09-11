@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching activities
+description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 +	2025Spring, Course Leader, BMS5010, Artificial Intelligence in Health Science Research and Management

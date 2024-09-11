@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 > Welcome to CompBioClub! We are a group of computational biologists studied and worked at the Department of Biomedical Science, City University of Hong Kong. Led by [Dr. Lingxi Chen](https://thelingxichen.github.io/), our group is dedicated to brige the gap between biomedical science and computational science.
 
 ### Hiring 
-> We are seeking talented and passionate <a href='/openings'>Research Assistants and PhD candidates</a>.
+> We are seeking talented and passionate <a href='/hiring'>Research Assistants and PhD candidates</a>.
 
 ### Research Interests
 
