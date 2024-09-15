@@ -19,9 +19,9 @@ If you are interested in pursuing a PhD degree related to computational biology 
 +   **Desire for Lifelong Research**: Our ideal candidates aspire to make a significant impact in research and view a PhD as the beginning of a lifelong research career.
 
 #### Available PhD Programme
-+   PhD Programme in Biomedical Sciences at CityU HK, highly competitive applicants may apply for Hong Kong PhD Fellowship Scheme (HKPFS). 
-+   3+1 Interdisciplinary PhD Programme between CityU HK and Cornell University’s College of Veterinary Medicine, the research should related to computational biology/veterinary medicine.
-+   Joint PhD Programme between CityU HK and Partner Mainland University, applicants must be PhD candidates from the following university: 北京航空航天大学 中南大学 大连理工大学 复旦大学 哈尔滨工业大学 华中科技大学 吉林大学 南京大学 南开大学 中国人民大学 上海交通大学 山东大学 华南理工大学 东南大学 四川大学 南方科技大学 天津大学 同济大学 中国科学院大学 中国科学技术大学 西安交通大学 厦门大学 武汉大学 浙江大学
++   PhD Programme in Biomedical Sciences at CityU HK, highly competitive applicants may apply for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). 
++   [3+1 Interdisciplinary PhD Programme between CityU HK and Cornell University’s College of Veterinary Medicine](https://www.cityu.edu.hk/jcc/education/postgraduate-programmes/vmp), the research should related to computational biology/veterinary medicine.
++   [Joint PhD Programme between CityU HK and Partner University](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes), applicants could be PhD candidates from the following Mainland universities: 北京航空航天大学 中南大学 大连理工大学 复旦大学 哈尔滨工业大学 华中科技大学 吉林大学 南京大学 南开大学 中国人民大学 上海交通大学 山东大学 华南理工大学 东南大学 四川大学 南方科技大学 天津大学 同济大学 中国科学院大学 中国科学技术大学 西安交通大学 厦门大学 武汉大学 浙江大学
 
 #### Benefits
 +   Monthly stipend of around 18,000 HKD (4 years).

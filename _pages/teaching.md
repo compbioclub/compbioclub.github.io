@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+Teaching:
 +	2025Spring, Course Leader, BMS5010, Artificial Intelligence in Health Science Research and Management
 +	2025Spring, Lecturer, BMS3301, Bioinformatics
 +	2024Fall, Course Leader, BMS2204, Diversity of Life and Microbiology Laboratory
@@ -18,3 +19,10 @@ nav_order: 6
 +   2018Spring, TA, CS1102, Introduction to Computer Studies
 +   2017Fall, TA, CS1102, Introduction to Computer Studies
 
+
+UG and PG mentoring:
++ Yihan Mao, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
++ Haochen Liu, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
++ Qinlin Chen, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
++ Yichen Guo, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
++ Ruixuan Zha, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
