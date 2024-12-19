@@ -10,7 +10,7 @@ related_publications: false
 
 The lab’s Christmas retreat at Osteria Ristorante Italiano was a festive affair, brimming with cheeses and desserts. Here are some fun highlights shared by the team!
 
-+   `Lingxi`: Osteria has the best tiramisu in Hong Kong!
++   `Lingxi`: Osteria has the best tiramisu in Hong Kong! 😋
 
 +   `Chengshang`: Elegant environment and fabulous exotic dishes.
 
@@ -23,10 +23,10 @@ The lab’s Christmas retreat at Osteria Ristorante Italiano was a festive affai
 +   `GPT-4o`: Our research group gathered for a festive Christmas lunch at Osteria Italian Restaurant, where the warm ambiance and delightful aromas set the perfect backdrop for our celebration. The team enjoyed a delectable array of traditional Italian dishes, from rich pasta to savory pizzas, all expertly prepared by the restaurant's talented chefs. Laughter and camaraderie filled the air as we shared stories and reflected on our accomplishments over the past year. The highlight of the meal was a beautifully crafted tiramisu, which added a sweet touch to our gathering. Overall, the lunch not only strengthened our bonds as colleagues but also provided a wonderful opportunity to unwind and celebrate the holiday season together.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ChrismasRetreat24.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ChrismasRetreat24-food.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
