@@ -5,7 +5,7 @@ description: Cheer up with cheese and tiramisu
 img: assets/img/ChrismasRetreat24-small.jpg
 importance: 1
 category: fun
-giscus_comments: true
+giscus_comments: false
 related_publications: false
 ---
 
@@ -23,7 +23,14 @@ The lab’s Christmas retreat at Osteria Ristorante Italiano was a festive affai
 
 +   `GPT-4o`: Our research group gathered for a festive Christmas lunch at Osteria Italian Restaurant, where the warm ambiance and delightful aromas set the perfect backdrop for our celebration. The team enjoyed a delectable array of traditional Italian dishes, from rich pasta to savory pizzas, all expertly prepared by the restaurant's talented chefs. Laughter and camaraderie filled the air as we shared stories and reflected on our accomplishments over the past year. The highlight of the meal was a beautifully crafted tiramisu, which added a sweet touch to our gathering. Overall, the lunch not only strengthened our bonds as colleagues but also provided a wonderful opportunity to unwind and celebrate the holiday season together.
 
-{% include figure.liquid loading="eager" path="assets/img/ChrismasRetreat24.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/ChrismasRetreat24-food.jpg" title="Main Courses" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ChrismasRetreat24.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ChrismasRetreat24-food.jpg" title="Main Courses" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
 Chrismas Retreat 2024 - Semi Lunch Buffet at Osteria Ristorante Italiano, Tsim Sha Tsui. 18 Dec 2024.
 </div>
