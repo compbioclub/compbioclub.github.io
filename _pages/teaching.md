@@ -18,11 +18,3 @@ Teaching:
 +   2018Fall, Tutor, CS1102, Introduction to Computer Studies
 +   2018Spring, TA, CS1102, Introduction to Computer Studies
 +   2017Fall, TA, CS1102, Introduction to Computer Studies
-
-
-UG and PG mentoring:
-+ Yihan Mao, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-+ Haochen Liu, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-+ Qinlin Chen, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-+ Yichen Guo, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
-+ Ruixuan Zha, year 1 undergraduate from BMS, BMS1701A rotation (2024Fall).
