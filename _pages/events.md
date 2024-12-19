@@ -1,11 +1,11 @@
 ---
 layout: page
-title: events
+title: Events
 permalink: /events/
 description: A growing collection of lab events and gatherings.
 nav: true
 nav_order: 7
-display_categories: [work, fun]
+display_categories: [fun]
 horizontal: false
 ---
 
