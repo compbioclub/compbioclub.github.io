@@ -2,7 +2,7 @@
 layout: page
 title: Chrismas Retreat 2024
 description: Cheer up with cheese and tiramisu 😋
-img: assets/img/ChrismasRetreat24.jpg
+img: assets/img/ChrismasRetreat24_small.jpg
 importance: 1
 category: fun
 giscus_comments: false

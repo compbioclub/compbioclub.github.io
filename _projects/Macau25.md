@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tavel to Macau 2025
-description: 
-img: assets/img/Macau25.jpg
+description: A Full Day of City Walk 😉
+img: assets/img/Macau25_small.jpg
 importance: 1
 category: fun
 giscus_comments: false
@@ -16,9 +16,9 @@ The lab’s first travel to Macau in 2025. We had a great lunch buffet at Macau 
     {% include figure.liquid path="assets/img/Macau25.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Macau25-feast.jpg" title="Feast on Macau Tower 360 Cafe Buffet" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Macau25-feast.jpg" title="Feast" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-Tavel to Macau 2025 - A Full Day of City Walking, Macau. 9 Mar 2025.
+Tavel to Macau 2025 - Feast on Macau Tower 360 Cafe Buffet, Macau. 9 Mar 2025.
 </div>
