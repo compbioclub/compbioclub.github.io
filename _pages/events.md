@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+title: Events
+permalink: /events/
+description: A growing collection of lab events and gatherings.
+nav: true
+nav_order: 7
+display_categories: [fun]
 horizontal: false
 ---
 
