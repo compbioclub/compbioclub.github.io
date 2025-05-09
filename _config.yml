@@ -96,7 +96,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: V6Ubb-oAAAAJ&hl # your Google Scholar ID
+scholar_userid: V6Ubb-oAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -169,13 +169,13 @@ disqus_shortname: CompBioClub # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -190,15 +190,15 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /:collection/:title/
+#   projects:
+#     output: true
+#     permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -314,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chen]
+  first_name: [Lingxi, L., L.X.]
 
   style: apa
   locale: en
