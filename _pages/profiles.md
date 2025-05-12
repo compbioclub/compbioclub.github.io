@@ -23,4 +23,5 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: left
     content: about_ug.md
----
+  - align: left
+    content: about_alumni.md
