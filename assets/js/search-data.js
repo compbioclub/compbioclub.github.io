@@ -23,21 +23,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-hiring",
-          title: "Hiring",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hiring/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-funding",
+        },{id: "dropdown-hiring-phd",
+              title: "Hiring PhD",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/hiring_phd/";
+              },
+            },{id: "dropdown-hiring-ra",
+              title: "Hiring RA",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/hiring_ra/";
+              },
+            },{id: "dropdown-hiring-ug",
+              title: "Hiring UG",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/hiring_ug/";
+              },
+            },{id: "dropdown-hiring-msc",
+              title: "Hiring MSc",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/hiring_msc/";
+              },
+            },{id: "nav-funding",
           title: "Funding",
           description: "",
           section: "Navigation",
@@ -57,6 +71,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
+          },
+        },{id: "nav-repositories",
+          title: "Repositories",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
           },
         },{id: "projects-tavel-to-macau-2025",
           title: 'Tavel to Macau 2025',
@@ -80,7 +101,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/thelingxichen", "_blank");
+          window.open("https://github.com/compbioclub", "_blank");
         },
       },{
         id: 'social-rss',
