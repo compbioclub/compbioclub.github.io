@@ -21,8 +21,13 @@ social: true # includes social icons at the bottom of the page
 
 <img src='/assets/img/compbioclub.jpg' width='100%' height='100%'>
 
-### Hiring 
-> We are seeking talented and passionate <a href='/hiring'>Research Assistants and PhD candidates</a>.
+### Openings
+> We are seeking talented and passionate <a href="/hiring_phd">PhD candidates</a>, <a href="/hiring_ra">research assistants</a>.
+
+> We are seeking talented and passionate <a href="/hiring_ug">CityU undergraduates</a> for Final Year Projects (e.g., BMS4206), research guidance (e.g., BMS1701), or campus internship schemes (e.g., CS‑PMS).
+
+> We are seeking talented and passionate <a href="/hiring_msc">CityU MSc students</a> for course research projects (e.g., BMS5101) or research guidance.
+
 
 ### Research Interests
 

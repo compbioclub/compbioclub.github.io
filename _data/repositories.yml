@@ -7,3 +7,5 @@ repo_description_lines_max: 3
 github_repos:
   - compbioclub/CRISGI
   - compbioclub/GREA
+  - compbioclub/SCRoFit
+  - compbioclub/ceRNAxis  

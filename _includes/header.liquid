@@ -83,6 +83,8 @@
                     {% endif %}
                   </a>
                   <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                    {% comment %} Debug: {{ p.children | jsonify }} {% endcomment %}
+
                     {% for child in p.children %}
                       {% if child.title == 'divider' %}
                         <div class="dropdown-divider"></div>
