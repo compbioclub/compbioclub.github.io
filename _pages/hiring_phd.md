@@ -41,7 +41,7 @@ We will screen candidates and send interview invitations in `late August or earl
 
 Tips for Preparation:
 
--   Select a `computational biology paper` from **Nature Biotechnology** or **Nature Methods** that provides the `public codes`, and send email to inform us your choice.
+-   Select a `computational biology paper` from **Nature Biotechnology** or **Nature Methods** that provides the `public codes`, and `send email to inform us your choice and schedule the online interview time`.
 -   Read it closely and be ready to discuss during the interview, we will asked questions related to:
     +   `The background problem and motivation`,
     +   `The research gap the paper addresses`,
