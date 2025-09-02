@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Teaching:
 +	2025Fall, Course Leader, BMS5013, Storytelling of Health Science Data with Analysis and Visualization
 +	2025Fall, Course Leader, BMS4001, Medical Informatics & Lab Management
 +	2025Fall, Course Leader, BMS2204, Diversity of Life and Microbiology Laboratory

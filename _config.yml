@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Chen]
-  first_name: [Lingxi]
+  last_name: [Chen, Lyu, Jiang, Ng, Liu]
+  first_name: [Lingxi, Chengshang, Anna, Ka Ho, Xiaoyu]
 
   style: apa
   locale: en
