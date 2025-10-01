@@ -18,9 +18,9 @@ If you’re interested in pursuing a PhD in computational biology with CompBioCl
 
 #### Available PhD Programme
 +   `Self-financed and industry-sponsored students are welcome!`
-+   PhD Programme in Biomedical Sciences at CityU HK. 
++   `UGC Scholarship` PhD Programme in Biomedical Sciences at CityU HK. 
     -   Monthly stipend of around 19,000 HKD (4 years).
-+   Highly competitive applicants may apply for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).
++   [`Hong Kong PhD Fellowship Scheme (HKPFS)`](https://cerg1.ugc.edu.hk/hkpfs/index.html). Highly competitive applicants may apply for it.
 
 
 #### How to Apply
@@ -53,4 +53,4 @@ Tips for Preparation:
 -   In the interview, we will focus on your **critical thinking**, **debugging/problem‑solving skills**, **code comprehension**, and ability to **communicate and discuss research effectively**. 
 -   Please treat it like a typical research group meeting, similar to what you’d experience in our lab during PhD training.
 
-We will identify the top candidates whose research style and critical thinking best fit our lab in `late September` and assist them with submitting their PhD applications through CityU’s online system.
+We will identify the top candidates whose research style and critical thinking best fit our lab in `Mid Oct` and assist them with submitting their PhD applications through CityU’s online system.
