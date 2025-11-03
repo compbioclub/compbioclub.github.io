@@ -1,7 +1,43 @@
 ---
 ---
 
-@article{lyu2025crisgi,
+@article{CNAScope,
+  title={CNAScope: Pan-Cancer Copy Number Aberration Database with Functional Annotation and Interactive Visualization},
+  author={Feng†*, Xikang and Zheng†, Jieyi and Peng†, Sisi and Jiang†, 
+  Anna and Ng, Ka Ho and Lyu, Chengshang and Jin*, Qiangguo and Chen*, Lingxi},
+  journal={Nucleic Acids Research},
+  pages={2025--06},
+  year={2025},
+  publisher={Oxford University Press},
+  doi={10.1093/nar/gkaf1242},
+  html={https://doi.org/10.1093/nar/gkaf1242},
+  website={https://cna.compbio.club/},
+  preview={CNAScope.png},
+  bibtex_show={true},
+  selected={true},
+  abstract={
+  Copy number aberrations (CNAs) are critical drivers of genomic diversity in oncology, where recurrent CNAs frequently underlie tumorigenesis. However, existing public resources are limited in their somatic CNA specificity, breadth across multiple data modalities, and support for recurrent CNAs with online functional annotation and interactive visualization. Here, we present CNAScope (https://cna.compbio.com/), a database that curates and functionally annotates over 3,954,361 CNA profiles and 3,946,319 metadata from 810 datasets, 174,464 samples, 3,018,672 single cells, and 764,232 spatial cells/spots, spanning 77 cancer subtypes from eight data sources and 55 cancer initiatives and institutions. CNAScope offers downloadable CNA annotations and interactive visualizations at bin, gene, and pathway term levels, including phylogenetic inference, clustering, dimension reduction, and focal/consensus CNA detection. Users can explore data through interactive heatmaps, phylogenetic trees, embedding plots, CN charts, and focal/consensus plots, or upload and annotate their own CNAs in real time. In all, with its large curated data volume and rich annotation capabilities, CNAScope serves as a vital resource for accelerating cancer research.
+  }
+}
+
+@article{ceRNAxis,
+author = {Gong, Xiaojuan and Chen, Lingxi and Guo, Xin and Jiang, Anna and He, Yayi and Yan, Chunxia and Ma, Liang and Gao, Jiayang and Zhang, Jinyu and Zhang, Bao},
+title = {LncRNA THUMPD3-AS1 Regulates Behavioral and Synaptic Structural Abnormalities in Schizophrenia via miR-485-5p and ARHGAP8},
+journal = {Advanced Science},
+pages = {e08867},
+year={2025},
+doi = {https://doi.org/10.1002/advs.202508867},
+html = {https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202508867},
+website={https://compbioclub.github.io/ceRNAxis/},
+preview={ceRNAxis.png},
+bibtex_show={true},
+selected={false},
+abstract = {Abstract Schizophrenia (SCZ) is characterized by synaptic structural deficits, yet how dysregulated noncoding RNAs (ncRNAs) drive these abnormalities remains unknown. Through integrative multilayered analysis of SCZ data from whole transcriptome sequencing (blood samples), GWAS risk loci, and expression data using pipeline ceRNAxis, the THUMPD3-AS1/miR-485-5p/ARHGAP8 axis is identified as a key regulator of synaptic function. Functional validation reveals that THUMPD3-AS1 acts as a competitive endogenous RNA, sequestering miR-485-5p and thereby derepressing ARHGAP8. Despite suppressing RhoA activity, ARHGAP8 enhances ROCK2 activation through RhoB/C-mediated compensatory mechanisms. Hyperactivation of ROCK2 through this noncanonical pathway disrupted actin cytoskeletal remodeling patterns, leading to increased immature dendritic spines and synaptic ultrastructural defects, which are pathological features associated with SCZ. In vivo, ventral hippocampal (vHip) overexpression of miR-485-5p or targeted knockdown of THUMPD3-AS1 rescued MK-801-induced SCZ-like phenotypes (anxiety, cognitive deficits, and social memory impairments) and restored synaptic ultrastructure. Crucially, this regulatory axis is cross-species conservation, with bidirectional expression changes validated in patient-derived blood and vHip tissues of mice. The findings reveal a novel ncRNA-driven pathogenic cascade in SCZ, where dysregulated RhoB/C-ROCK2 signaling, distinct from classical RhoA pathways, mediates synaptic destabilization. This presents a therapeutic axis for precision interventions targeting noncanonical actin cytoskeletal remodeling.}
+}
+
+
+
+@article{CRISGI,
   title={Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions},
   author={Lyu, Chengshang and Jiang, Anna and Ng, Ka Ho and Liu, Xiaoyu and Chen*, Lingxi},
   journal={bioRxiv},
@@ -11,14 +47,14 @@
   doi={10.1101/2025.04.18.649619},
   html={https://doi.org/10.1101/2025.04.18.649619},
   website={https://compbioclub.github.io/CRISGI/},
-  preview={crisgi.png},
-  poster={crisgi_poster.png},
+  preview={CRISGI.png},
+  poster={CRISGI_poster.png},
   bibtex_show={true},
   selected={true},
   abstract={Early detection of respiratory virus infections, such as influenza A (H3N2), is critical for timely intervention and disease management. Conventional biomarkers often overlook the complex and dynamic nature of gene regulatory changes, while existing predictive models frequently lack automation and robust external validation. Thus, we present CRISGI (Critical tran-Sient Gene Interaction), a computational framework that detects early-warning signals of infection by identifying dynamic changes in gene-gene interactions—termed critical transient interactions—from bulk RNA-seq data. CRISGI leverages critical transition (CT) theory to capture a GRN’s unstable intermediate state, known as the CT stage, before irreversible phenotypic shifts. Applied to a human challenge study with H3N2, CRISGI identified 128 critical transition edges (128-TER). These were used to train predictive models capable of forecasting symptom status and onset timing. 128-TER was then validated across six temporal transcriptomic datasets involving three respiratory viruses (H3N2, H1N1, HRV). The 128-TER consistently distinguished symptomatic individuals, predicted infection onset, and revealed phenotype-specific enrichment patterns. Notably, CRISGI captured immune-related transitions involving interferon-stimulated genes (e.g., IFIT1, CXCL10), underscoring their role in early host defense. CRISGI advances early-warning biomarker discovery by integrating interaction-level dynamics and predictive modeling. Its reproducibility across viruses highlights shared immune activation pathways, supporting its utility in both research and clinical contexts.},
 }
 
-@article{liu2025grea,
+@article{GREA,
   title={Knowledge-driven annotation for gene interaction enrichment analysis},
   author={Liu†, Xiaoyu and Jiang†, Anna and Lyu, Chengshang and Chen*, Lingxi},
   journal={bioRxiv},
@@ -28,14 +64,14 @@
   doi={10.1101/2025.04.15.649030},
   html={https://doi.org/10.1101/2025.04.15.649030},
   website={https://compbioclub.github.io/GREA/},
-  preview={grea.png},
-  poster={grea_poster.png},
+  preview={GREA.png},
+  poster={GREA_poster.png},
   bibtex_show={true},
   selected={true},
   abstract={Gene Set Enrichment Analysis (GSEA) is a cornerstone for interpreting gene expression data, yet traditional approaches overlook gene interactions by focusing solely on individual genes, limiting their ability to detect subtle or complex pathway signals. To overcome this, we present GREA (Gene Interaction Enrichment Analysis), a novel framework that incorporates gene interaction data into enrichment analysis. GREA replaces the binary gene hit indicator with an interaction overlap ratio, capturing the degree of overlap between gene sets and gene interactions to enhance sensitivity and biological interpretability. It supports three enrichment metrics: Enrichment Score (ES), Enrichment Score Difference (ESD) from a Kolmogorov-Smirnov-based statistic, and Area Under the Curve (AUC) from a recovery curve. GREA evaluates statistical significance using both permutation testing and gamma distribution modeling. Benchmarking on transcriptomic datasets related to respiratory viral infections shows that GREA consistently outperforms existing tools such as blitzGSEA and GSEApy, identifying more relevant pathways with greater stability and reproducibility. By integrating gene interactions into pathway analysis, GREA offers a powerful and flexible tool for uncovering biologically meaningful insights in complex datasets. The source code is available at https://github.com/compbioclub/GREA.},
 }
 
-@article{weiheng2025bind,
+@article{BIND,
   title={Biologically Informative NA Deconvolution (BIND) excavates hidden features of the proteome from missing values in large-scale datasets},
   author={Guo†, Weiheng and Jin†, Wenyi and Zheng†, Jieyi and Pan, 
   Yilin and Wang, Rui and Zhang*, Jian and Feng*, Xikang and Chen*, Lingxi and Zhang*, Liang},
@@ -51,3 +87,7 @@
   selected={false},
   abstract={The fast-advancing mass spectrometry and related technologies have greatly extended the depth of coverage in large-scale proteomics studies, including single-cell applications. As sample numbers grow rapidly, it is often challenging to interpret the proteins with missing values that are often presented as “NA” (not available). It could be the evidence of no expression, low expression below the detection threshold, or false negative detection due to technical issues. Existing methods for missing values imputation, while generally useful, rarely consider the non-random NA values that inform biological significance. In the current study, we developed Biologically Informative NA Deconvolution (BIND) that applies an adaptive neighborhood-based modeling to deconvolve the nature of NAs as “biological” (low/no expression) or technical (experimental errors). Applying to multiple cell line datasets and human tissue extracellular vesicle datasets, BIND excavated the NAs that indicated “hallmark absence” of unique proteins. This led to improvements in protein-protein interaction analysis and the identification of novel disease biomarkers. To facilitate its public accessibility, we compiled BIND into a web server that features functional online operations and interactive visualizations. Furthermore, we demonstrated that the BIND server could deconvolve the NAs and improve the analyses of single-cell proteomics datasets. Overall, BIND delineates the biological significance of missing values rather than treating them as a burden, providing a critical perspective for understanding the complex proteome in various biological contexts.}
 }
+
+
+
+

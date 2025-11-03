@@ -37,9 +37,11 @@ If you’re interested in pursuing a PhD in computational biology with CompBioCl
 
 ##### Step 2: Interview
 
-We will screen candidates and send interview invitations in `late August or early September`. Please feel free to prepare in whatever way works best for you.
+We will screen candidates and issue interview invitations. The interview has three phases; at each stage, we will identify the top candidates with strong research potential and those whose research style and critical thinking best fit our lab.
 
-Tips for Preparation:
+**Stage I: Journal Club**
+
+Please feel free to prepare in whatever formats works best for you. Tips for Preparation:
 
 -   Select a `computational biology paper` from **Nature Biotechnology** or **Nature Methods** that provides the `public codes`, and `send email to inform us your choice and schedule the online interview time`.
 -   Read it closely and be ready to discuss during the interview, we will asked questions related to:
@@ -53,4 +55,15 @@ Tips for Preparation:
 -   In the interview, we will focus on your **critical thinking**, **debugging/problem‑solving skills**, **code comprehension**, and ability to **communicate and discuss research effectively**. 
 -   Please treat it like a typical research group meeting, similar to what you’d experience in our lab during PhD training.
 
-We will identify the top candidates whose research style and critical thinking best fit our lab in `Mid Oct` and assist them with submitting their PhD applications through CityU’s online system.
+
+**Stage II: Informal conversation to align PhD mentorship expectations**
+
+
+An informal chat to ensure our research and mentorship expectations align, guided by the PhD mentorship expectations documents.
+
+
+**Stage III: Formal interview with BMS comitte**
+
+A 15–20 minute slide presentation introducing yourself and your research projects, followed by committee questions related to your work.
+
+

@@ -17,8 +17,6 @@ nav_order: 2
 </div>
 <br>
 Manuscripts under review at `top 10%` JCR journals
-- ..., __Lingxi Chen__*. Knowledge-driven annotation for gene interaction enrichment analysis. 
-- ..., __Lingxi Chen__*. CNAScope: Pan-Cancer Copy Number Aberration Database with Functional Annotation and Interactive Visualization.
 - ..., __Lingxi Chen__*. Benchmarking haplotype- and clone-specific detection of complex copy number aberrations in single-cell DNA with HCDSIM. 
 
 <!-- Bibsearch Feature -->
