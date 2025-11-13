@@ -84,6 +84,11 @@ ninja.data = [{
           description: "A Full Day of City Walk 😉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Macau25/";
+            },},{id: "projects-group-dinner-in-shenzhen-2025",
+          title: 'Group dinner in Shenzhen 2025',
+          description: "Delicious Coconut Chicken Hotpot 🍲",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Shenzhen25/";
             },},{id: "projects-chrismas-retreat-2024",
           title: 'Chrismas Retreat 2024',
           description: "Cheer up with cheese and tiramisu 😋",
