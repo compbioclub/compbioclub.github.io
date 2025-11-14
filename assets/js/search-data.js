@@ -84,6 +84,11 @@ ninja.data = [{
           description: "A Full Day of City Walk 😉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Macau25/";
+            },},{id: "projects-research-gala-amp-research-summary-of-2024-2025",
+          title: 'Research Gala &amp;amp; Research Summary of 2024-2025',
+          description: "A Summary of Our Research Works in 2024-2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ResearchGala24+25/";
             },},{id: "projects-group-dinner-in-shenzhen-2025",
           title: 'Group dinner in Shenzhen 2025',
           description: "Delicious Coconut Chicken Hotpot 🍲",
