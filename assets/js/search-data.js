@@ -89,11 +89,6 @@ ninja.data = [{
           description: "A Summary of Our Research Works in 2024-2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ResearchGala24+25/";
-            },},{id: "projects-group-dinner-in-shenzhen-2025",
-          title: 'Group dinner in Shenzhen 2025',
-          description: "Delicious Coconut Chicken Hotpot 🍲",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Shenzhen25/";
             },},{id: "projects-chrismas-retreat-2024",
           title: 'Chrismas Retreat 2024',
           description: "Cheer up with cheese and tiramisu 😋",
