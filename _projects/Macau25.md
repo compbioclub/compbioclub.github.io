@@ -2,8 +2,8 @@
 layout: page
 title: Tavel to Macau 2025
 description: A Full Day of City Walk 😉
-img: assets/img/Macau25_small.jpg
-importance: 1
+img: assets/img/Macau25.jpg
+importance: 999
 category: fun
 giscus_comments: false
 related_publications: false
