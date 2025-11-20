@@ -84,9 +84,9 @@ ninja.data = [{
           description: "A Full Day of City Walk 😉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Macau25/";
-            },},{id: "projects-research-gala-amp-research-summary-of-2024-2025",
-          title: 'Research Gala &amp;amp; Research Summary of 2024-2025',
-          description: "A Summary of Our Research Works in 2024-2025",
+            },},{id: "projects-cityuhk-bms-sysy-bme-joint-research-gala-2025",
+          title: 'CityUHK BMS-SYSY BME Joint Research Gala 2025',
+          description: "A Summary of Phd Student Research Works in 2024-2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ResearchGala24+25/";
             },},{id: "projects-chrismas-retreat-2024",
