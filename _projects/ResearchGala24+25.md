@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Gala & Research Summary of 2024-2025
-description: A Summary of Our Research Works in 2024-2025
+title: CityUHK BMS-SYSY BME Joint Research Gala 2025
+description: A Summary of Phd Student Research Works in 2024-2025
 img: assets/img/Gala25.jpg
 importance: 998
 category: fun
@@ -9,9 +9,10 @@ giscus_comments: false
 related_publications: false
 ---
 
-We participated in the BMS Research Gala 2025 held at Sun Yat-sen University Shenzhen Campus on 4-5 July 2025. During the event, we presented a summary of our research works from 2024 to 2025, showcasing our achievements and future directions. The gala provided an excellent platform for networking and exchanging ideas with fellow researchers. It was a memorable experience for the entire team. Chengshang won the Best Poster Presentation Award for his new reseach on multimodal disease early warning algorithms.
+We participated in the CityUHK BMS-SYSY BME Joint Research Gala 2025 held at Sun Yat-sen University Shenzhen Campus on 4-5 July 2025. During the event, Chengshang and Anna presented a summary of their research works from 2024 to 2025 in poster section. The gala provided an excellent platform for networking and exchanging ideas with fellow researchers. It was a memorable experience for the entire team. Chengshang won the *Best Poster Presentation Award* for his new reseach on multimodal disease early warning algorithm---CRISGI.
 
-In the subsequent scholarship selection, Chengshang won the school and department scholar scholarships respectively. Congratulations to Chengshang for his outstanding achievements!
+Moreover, the collaborative research led to Chengshang receiving the *CityUHK Research Tuition Scholarship 2024/25* and the *BMS Postgraduate Research Output Award 2024/25*. Congratulations to Chengshang on his exceptional accomplishments!
+
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -25,5 +26,5 @@ In the subsequent scholarship selection, Chengshang won the school and departmen
   </div>
 </div>
 <div class="caption">
-Research Gala 2025 - Sun Yat-sen University Shenzhen Campus, Shenzhen. 4-5 July 2025.
+CityUHK BMS-SYSY BME Joint Research Gala 2025 - Sun Yat-sen University Shenzhen Campus, Shenzhen. 4-5 July 2025.
 </div>
