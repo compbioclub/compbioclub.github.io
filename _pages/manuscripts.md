@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /manuscripts/
+title: Manuscripts
 description: 
 nav: false
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/manuscripts.md -->
 
 
 <div>
@@ -22,5 +22,5 @@ nav: false
 {% include bib_search.liquid %}
 
 <div class="publications">
-{% bibliography --group_by none --query @*[peerreviewed=true]* %}
+{% bibliography --group_by none --query @*[peerreviewed=false]* %}
 </div>
