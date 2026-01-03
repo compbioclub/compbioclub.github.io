@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a> | <a href='https://www.cityu.edu.hk/bms/'>CityUHK BMS</a>
 
