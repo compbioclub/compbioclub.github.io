@@ -9,14 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-people",
+  },{id: "dropdown-publications",
+              title: "Publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-manuscripts",
+              title: "Manuscripts",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/manuscripts/";
+              },
+            },{id: "nav-people",
           title: "People",
           description: "Talented Lab Members of CompBioClub",
           section: "Navigation",
