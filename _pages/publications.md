@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: The publications listed here are those affiliated with CompBioClub. For complete lists, see the members' scholar pages.
+
 nav: false
 ---
 

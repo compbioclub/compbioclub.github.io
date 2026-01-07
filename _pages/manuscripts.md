@@ -2,7 +2,8 @@
 layout: page
 permalink: /manuscripts/
 title: Manuscripts
-description: 
+description: The manuscripts listed here are those affiliated with CompBioClub. For complete lists, see the members' scholar pages.
+
 nav: false
 ---
 

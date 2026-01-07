@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Talented Lab Members of CompBioClub
+description: Only CompBioClub-affiliated publications in high-impact journals are counted here. For complete lists, see the members' scholar pages.
 nav: true
 nav_order: 3
 
@@ -16,3 +16,4 @@ profiles:
   - align: right
     content: profile_alumni.md
 ---
+
