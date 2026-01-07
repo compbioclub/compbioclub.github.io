@@ -25,7 +25,7 @@ ninja.data = [{
               },
             },{id: "nav-people",
           title: "People",
-          description: "Talented Lab Members of CompBioClub",
+          description: "Only CompBioClub-affiliated publications in high-impact journals are counted here. For complete lists, see the members&#39; scholar pages.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
