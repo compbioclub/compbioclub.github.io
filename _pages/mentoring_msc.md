@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hiring_msc/
-title: Hiring MSc
+permalink: /mentoring_msc/
+title: Mentoring MSc
 description: 
 nav: false
 ---
@@ -13,7 +13,6 @@ Master students from CityU-BMS, CityU-BioStats, CityU-IS, CityU-DS, and CityU-CS
 
 Current:
 - Chang Hao, HSHSM, 2025/26, SemA - Now, Data Analysis for Spatial Transcriptomics
-- Tayyab Muhammad, HSHSM, 2025/26, SemA - Now, Data Curation and Analysis for Cancer Transcriptomics
 - Yang Minghan, HSHSM, 2025/26, SemA - Now, Data Curation and Analysis for Cancer Transcriptomics
 - Qian Chenyang, HSHSM, 2025/26, SemA - Now, Data Curation and Analysis for Cancer Transcriptomics
 

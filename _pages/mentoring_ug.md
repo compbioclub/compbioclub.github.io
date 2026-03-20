@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hiring_ug/
-title: Hiring UG
+permalink: /mentoring_ug/
+title: Mentoring UG
 description: 
 nav: false
 ---
@@ -18,8 +18,8 @@ Undergraduate students from CityU-BMS, CityU-BioStats, CityU-DS, and CityU-CS ar
 
 ##### CityU-CS, PMS Intership
 
-
-+ Ka Ho NG, year 4 undergraduate from CS, PMS placement (2024-2025).
++ Yuhan Zeng, year 4 undergraduate from CS, PMS placement (2026-Now).
++ Ka Ho NG, year 3 undergraduate from CS, PMS placement (2024-2025).
 
 
 

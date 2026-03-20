@@ -3,7 +3,7 @@
 
 |||
 |:-:|:-|
-| <img src="../assets/img/liuyanran.jpg" width='120' height="120"> | **Yanran Liu**, Incoming PhD student in BMS (Sep 2026 - Now). <br> - **Contact**: `yanranliu7-c@my.cityu.edu.hk` <br> - **Background**: M.Sc. in Information System at CityU. <br> - **Interest**: `Deep Learning`, `Gene Regulatory Network`, `Spatial Domains`, `Single-Cell/Spatial Multi-Omics`. |
+| <img src="../assets/img/liuyanran.jpg" width='120' height="120"> | **Yanran Liu**, Incoming PhD student in BMS (Sep 2026 - Now). <br> - **Contact**: `yanranliu7-c@my.cityu.edu.hk` [`Personal Page`](https://liuyanran666.github.io/) <br> - **Background**: M.Sc. in Information System at CityU. <br> - **Interest**: `Deep Learning`, `Gene Regulatory Network`, `Spatial Domains`, `Single-Cell/Spatial Multi-Omics`. |
 |ENFP-A||
 
 |||

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hiring_phd/
-title: Hiring PhD
+permalink: /mentoring_phd/
+title: Mentoring PhD
 description: 
 nav: false
 ---

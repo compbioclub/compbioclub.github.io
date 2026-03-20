@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hiring_ra/
-title: Hiring RA
+permalink: /mentoring_ra/
+title: Mentoring RA
 description: 
 nav: false
 ---
