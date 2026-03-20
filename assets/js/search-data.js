@@ -30,33 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-hiring-phd",
-              title: "Hiring PhD",
+        },{id: "dropdown-mentoring-phd",
+              title: "Mentoring PhD",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/hiring_phd/";
+                window.location.href = "/mentoring_phd/";
               },
-            },{id: "dropdown-hiring-ra",
-              title: "Hiring RA",
+            },{id: "dropdown-mentoring-postdoc",
+              title: "Mentoring PostDoc",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/hiring_ra/";
+                window.location.href = "/mentoring_postdoc/";
               },
-            },{id: "dropdown-hiring-ug",
-              title: "Hiring UG",
+            },{id: "dropdown-mentoring-ra",
+              title: "Mentoring RA",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/hiring_ug/";
+                window.location.href = "/mentoring_ra/";
               },
-            },{id: "dropdown-hiring-msc",
-              title: "Hiring MSc",
+            },{id: "dropdown-mentoring-ug",
+              title: "Mentoring UG",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/hiring_msc/";
+                window.location.href = "/mentoring_ug/";
+              },
+            },{id: "dropdown-mentoring-msc",
+              title: "Mentoring MSc",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/mentoring_msc/";
               },
             },{id: "nav-funding",
           title: "Funding",
