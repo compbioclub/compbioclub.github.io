@@ -2,7 +2,7 @@
 layout: page
 title: Chrismas Retreat 2024
 description: Cheer up with cheese and tiramisu 😋
-img: assets/img/ChrismasRetreat24.jpg
+img: assets/img/events/ChrismasRetreat24.jpg
 importance: 1000
 category: fun
 giscus_comments: false
@@ -25,10 +25,10 @@ The lab’s Christmas retreat at Osteria Ristorante Italiano was a festive affai
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/ChrismasRetreat24.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/events/ChrismasRetreat24.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/ChrismasRetreat24-food.jpg" title="Main Courses" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/events/ChrismasRetreat24-food.jpg" title="Main Courses" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">

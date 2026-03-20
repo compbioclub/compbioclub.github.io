@@ -2,7 +2,7 @@
 layout: page
 title: CityUHK BMS-SYSY BME Joint Research Gala 2025
 description: A Summary of Phd Student Research Works in 2024-2025
-img: assets/img/Gala25.jpg
+img: assets/img/events/Gala25.jpg
 importance: 998
 category: fun
 giscus_comments: false
@@ -16,13 +16,13 @@ Moreover, the collaborative research led to Chengshang receiving the *CityUHK Re
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Gala25.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/events/Gala25.jpg" title="The Team" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Gala25-2.jpg" title="Anna is showing her academic poster to the judge" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/events/Gala25-2.jpg" title="Anna is showing her academic poster to the judge" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Gala25-3.jpg" title="Awards ceremony" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/events/Gala25-3.jpg" title="Awards ceremony" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
