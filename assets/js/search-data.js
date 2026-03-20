@@ -102,7 +102,12 @@ ninja.data = [{
           title: 'CityUHK BMS-SYSY BME Joint Research Gala 2025',
           description: "A Summary of Phd Student Research Works in 2024-2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ResearchGala24+25/";
+              window.location.href = "/projects/ResearchGala25/";
+            },},{id: "projects-group-dinner-in-shenzhen-2025",
+          title: 'Group dinner in Shenzhen 2025',
+          description: "Delicious Coconut Chicken Hotpot 🍲",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Shenzhen25/";
             },},{id: "projects-chrismas-retreat-2024",
           title: 'Chrismas Retreat 2024',
           description: "Cheer up with cheese and tiramisu 😋",
