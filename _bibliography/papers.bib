@@ -1,16 +1,37 @@
 ---
 ---
 
+
+@article{CRESCENT,
+  title={CRESCENT: A Deep Learning Framework with Multi-Scale Attention for Detecting Recurrent Copy Number Aberrations},
+  author={Feng†*, Xikang and Xu†, Zheng and Peng, Sisi and Zheng, Jieyi and Ma, 
+  Chuan and Jin*, Qiangguo and Chen*, Lingxi},
+  journal={Briefings In Bioinformatics},
+  pages={2026--03},
+  year={2026},
+  publisher={Oxford University Press},
+  doi={10.1093/bib/bbag167},
+  website={https://github.com/BioThinkLab/CRESCENT},
+  preview={CRESCENT.jpg},
+  bibtex_show={true},
+  selected={false},
+  peerreviewed={true},
+  abstract={
+  Recurrent copy number alterations (CNAs) are fundamental drivers of tumorigenesis, yet identifying them reliably remains a challenge due to the extreme variability in their genomic scale and context. Current methods often struggle to balance sensitivity across focal, segmental, and arm-level events. Here, we present CRESCENT, a deep learning framework designed to detect recurrent CNAs by integrating multi-scale sampling with convolutional neural networks and self-attention mechanisms. By processing copy number profiles from 7,689 cases across 20 TCGA cancer projects, CRESCENT learns to distinguish recurrent drivers from background noise through parallel feature fusion. In rigorous leave-one-project-out cross-validation, the model demonstrated robust generalization, achieving AUCs of 0.894-0.967 for amplifications and 0.804-0.929 for deletions in representative cohorts (BLCA, SARC, GBM, UCEC). Finally, extending beyond the TCGA-specific cross-validation, we trained a unified pan-cancer model to assess CRESCENT’s generalizability on simulated datasets and independent, non-TCGA cancer cohorts (CGCI and TARGET). Benchmarking against standard tools, including GISTIC2 and RUBIC, reveals that CRESCENT offers superior detection balance, identifying the highest total number of significant events across focal and broad scales. Moreover, extensive focal gene expression validation and pathway annotation, coupled with survival analysis, highlights that CRESCENT identifies critical oncogenic drivers and prognostic markers that conventional statistical methods often overlook. In all, CRESCENT provides a highly sensitive, generalized approach for decoding tumor evolution.
+  }
+}
+
+
+
 @article{CNAScope,
   title={CNAScope: Pan-Cancer Copy Number Aberration Database with Functional Annotation and Interactive Visualization},
   author={Feng†*, Xikang and Zheng†, Jieyi and Peng†, Sisi and Jiang†, 
   Anna and Ng, Ka Ho and Lyu, Chengshang and Jin*, Qiangguo and Chen*, Lingxi},
   journal={Nucleic Acids Research},
-  pages={2025--06},
-  year={2025},
+  pages={D1364–D1375},
+  year={2026},
   publisher={Oxford University Press},
   doi={10.1093/nar/gkaf1242},
-  html={https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1242/8329103},
   website={https://cna.compbio.club/},
   preview={CNAScope.png},
   bibtex_show={true},
@@ -26,7 +47,6 @@ journal = {Advanced Science},
 pages = {e08867},
 year={2025},
 doi = {10.1002/advs.202508867},
-html = {https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202508867},
 website={https://compbioclub.github.io/ceRNAxis/},
 preview={ceRNAxis.png},
 bibtex_show={true},
@@ -41,7 +61,6 @@ abstract = {Abstract Schizophrenia (SCZ) is characterized by synaptic structural
   journal={Preprint-In Submission},
   year={2025},
   doi={10.21203/rs.3.rs-8340493/v1},
-  html={https://www.researchsquare.com/article/rs-8340493/v1},
   bibtex_show={true},
   selected={false},
   peerreviewed={false},
@@ -57,7 +76,6 @@ Conclusion: BPformer effectively addresses the interpretability challenges faced
   journal={Preprint-In Submission},
   year={2025},
   doi={10.64898/2025.11.30.691365},
-  html={https://www.biorxiv.org/content/10.64898/2025.11.30.691365},
   website={https://compbioclub.github.io/InvCoxGraph/},
   preview={invcoxgraph.png},
   bibtex_show={true},
@@ -72,7 +90,6 @@ Conclusion: BPformer effectively addresses the interpretability challenges faced
   journal={Preprint-Under Review},
   year={2025},
   doi={10.1101/2025.04.18.649619},
-  html={https://www.biorxiv.org/content/10.1101/2025.04.18.649619},
   website={https://compbioclub.github.io/CRISGI/},
   preview={crisgi.png},
   bibtex_show={true},
@@ -88,7 +105,6 @@ Conclusion: BPformer effectively addresses the interpretability challenges faced
   journal={Preprint-Under Review},
   year={2025},
   doi={10.1101/2025.04.15.649030},
-  html={https://www.biorxiv.org/content/10.1101/2025.04.15.649030},
   website={https://compbioclub.github.io/GREA/},
   preview={grea.png},
   bibtex_show={true},
@@ -105,7 +121,6 @@ Conclusion: BPformer effectively addresses the interpretability challenges faced
   journal={Preprint-Under Revision},
   year={2025},
   doi={10.1101/2025.06.19.660508},
-  html={https://www.biorxiv.org/content/10.1101/2025.06.19.660508},
   website={https://bind.compbio.club/},
   preview={bind.png},
   bibtex_show={true},
