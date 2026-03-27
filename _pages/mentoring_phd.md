@@ -18,15 +18,15 @@ If you’re interested in pursuing a PhD in computational biology with CompBioCl
 
 #### Available PhD Programme
 +   **Self-financed or industry-sponsored students are welcome!**
-+   `UGC-funded Scholarship`. PhD Programme in Biomedical Sciences at CityU. (**Quota currently filled for 2026Fall**)
++   `UGC-funded Scholarship`. PhD Programme in Biomedical Sciences at CityUHK. (**Quota currently filled for 2026Fall**)
     - Monthly stipend of around 19,000 HKD (4 years).
-+   `CityU–Cornell Joint PhD Programme`. Three years at CityU and a one‑year exchange at Cornell University; the degree is awarded by CityU. 
-    - Monthly stipend of around 19,000 HKD at CityU (3 years).
++   `CityUHK–Cornell Joint PhD Programme`. Three years at CityUHK and a one‑year exchange at Cornell University; the degree is awarded by CityUHK. 
+    - Monthly stipend of around 19,000 HKD at CityUHK (3 years).
     - Details: [https://www.cityu.edu.hk/jcc/education/postgraduate-programmes/vmp](https://www.cityu.edu.hk/jcc/education/postgraduate-programmes/vmp)    
-+   `CityU-Mainland Joint PhD Programme`. Open to applicants currently are PhD student from a C9 or UCAS institution. 
-    - Monthly stipend of around 19,000 HKD at CityU (1 years).
++   `CityUHK-Mainland Joint PhD Programme`. Open to applicants currently are PhD student from a C9 or UCAS institution. 
+    - Monthly stipend of around 19,000 HKD at CityUHK (1 years).
 +   `TUSS Scheme`. Open to applicants with a bachelor’s degree from a C9 or UCAS institution, a GPA of 85+ (or equivalent), relevant awards, and publications. Highly competitive candidates are encouraged to apply.
-    - Monthly stipend of around 19,000 HKD at CityU (4 years).
+    - Monthly stipend of around 19,000 HKD at CityUHK (4 years).
 +   `Local Talent Scheme`. Open to Hong Kong permanent residents.
     - Monthly stipend of around 25,000 HKD (4 years).
 +   `Hong Kong PhD Fellowship Scheme (HKPFS)`. Highly competitive candidates are encouraged to apply.
