@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tavel to Macau 2025
+title: Travel to Macau 2025
 description: A Full Day of City Walk 😉
 img: assets/img/events/Macau25.jpg
 importance: 999
@@ -20,5 +20,5 @@ The lab’s first travel to Macau in 2025. We had a great lunch buffet at Macau 
   </div>
 </div>
 <div class="caption">
-Tavel to Macau 2025 - Feast on Macau Tower 360 Cafe Buffet, Macau. 9 Mar 2025.
+Travel to Macau 2025 - Feast on Macau Tower 360 Cafe Buffet, Macau. 9 Mar 2025.
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group dinner in Shenzhen 2025
+title: Dinner in Shenzhen to Welcome Yanran
 description: Delicious Coconut Chicken Hotpot 🍲
 img: assets/img/events/Shenzhen25.jpg
 importance: 997
@@ -9,7 +9,7 @@ giscus_comments: false
 related_publications: false
 ---
 
-The lab had a delightful dinner in Shenzhen to welcome our new member, Yanran. We enjoyed a traditional coconut chicken hotpot, which was both flavorful and comforting. The warm broth, infused with the essence of coconut, perfectly complemented the tender chicken and fresh vegetables. It was a great opportunity for the team to bond over a shared meal and warmly welcome Yanran to our group.
+The lab enjoyed a wonderful welcome dinner in Shenzhen for our new member, Yanran, who has verbally agreed to join our lab as a PhD student in September 2026. We enjoyed a traditional coconut chicken hotpot, which was both flavorful and comforting. The warm broth, infused with the essence of coconut, perfectly complemented the tender chicken and fresh vegetables. It was a great opportunity for the team to bond over a shared meal and warmly welcome Yanran to our group.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -17,5 +17,5 @@ The lab had a delightful dinner in Shenzhen to welcome our new member, Yanran. W
   </div>
 </div>
 <div class="caption">
-Group dinner in Shenzhen 2025 - Delicious Coconut Chicken Hotpot, Shenzhen. 13 Nov 2025.
+Dinner in Shenzhen to Welcome Yanran - Delicious Coconut Chicken Hotpot, Shenzhen. 13 Nov 2025.
 </div>
