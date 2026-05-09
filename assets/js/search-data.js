@@ -93,8 +93,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "projects-tavel-to-macau-2025",
-          title: 'Tavel to Macau 2025',
+        },{id: "projects-cityuhk-bms-bbq-2026",
+          title: 'CityUHK BMS-BBQ 2026',
+          description: "A 23 km Cycling Ride and BBQ",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/BMSBBQ26/";
+            },},{id: "projects-travel-to-macau-2025",
+          title: 'Travel to Macau 2025',
           description: "A Full Day of City Walk 😉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Macau25/";
@@ -103,8 +108,8 @@ ninja.data = [{
           description: "A Summary of Phd Student Research Works in 2024-2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ResearchGala25/";
-            },},{id: "projects-group-dinner-in-shenzhen-2025",
-          title: 'Group dinner in Shenzhen 2025',
+            },},{id: "projects-dinner-in-shenzhen-to-welcome-yanran",
+          title: 'Dinner in Shenzhen to Welcome Yanran',
           description: "Delicious Coconut Chicken Hotpot 🍲",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Shenzhen25/";
@@ -112,7 +117,12 @@ ninja.data = [{
           title: 'Chrismas Retreat 2024',
           description: "Cheer up with cheese and tiramisu 😋",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/XmasRetreat24/";
+              window.location.href = "/projects/Xmas24/";
+            },},{id: "projects-chrismas-retreat-2025",
+          title: 'Chrismas Retreat 2025',
+          description: "Cheered up with fried chicken and Korean hotpot 😋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Xmas25/";
             },},{
         id: 'social-email',
         title: 'email',
