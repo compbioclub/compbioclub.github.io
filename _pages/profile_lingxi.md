@@ -3,7 +3,7 @@
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <div markdown="1">
-**Dr. Lingxi Chen**, Assistant Professor (Dec 2023 - Now). 
+**Dr. CHEN Lingxi**, Assistant Professor (Dec 2023 - Now). 
 <br> - **Contact**: `lingxi.chen@cityu.edu.hk` [`Personal Page`](https://thelingxichen.github.io/) [`CityU Scholar`](https://scholars.cityu.edu.hk/en/persons/lingxchen2/) 
 <br> - **Background**: B.Sc. in CS at UoN. M.Sc. in Web Science and Big Data Analytics at UCL. Ph.D. in CS at CityUHK.
 <br> - **Corr-Author**: NAR\*1. 

@@ -8,7 +8,7 @@
   <figcaption>ENFP-A</figcaption>
 </figure>
 <div markdown="1">
-**Yanran Liu**, RA (April 2026 - Aug 2026), Ph.D. student in BMS (Sep 2026 - Now). 
+**LIU Yanran**, RA (April 2026 - Aug 2026), Ph.D. student in BMS (Sep 2026 - Now). 
 <br> - **Contact**: `yanranliu7-c@my.cityu.edu.hk` [`Personal Page`](https://liuyanran666.github.io/) 
 <br> - **Background**: B.Eng. in Financial Engineering at DLMU. M.Sc. in Information System at CityUHK. 
 <br> - **Interest**: `Deep Learning`, `Gene Regulatory Network`, `Spatial Domains`, `Single-Cell/Spatial Multi-Omics`.     
@@ -23,7 +23,7 @@
   <figcaption>INFJ-A</figcaption>
 </figure>
 <div markdown="1">
-**Anna Jiang**, RA (Aug 2024 - Aug 2025), Ph.D. student in BMS (Sep 2025 - Now). 
+**JIANG Anna**, RA (Aug 2024 - Aug 2025), Ph.D. student in BMS (Sep 2025 - Now). 
 <br> - **Contact**: `anna.jiang@my.cityu.edu.hk` [`Personal Page`](https://fanjiangchenghe.github.io/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/anna-jiang/) 
 <br> - **Background**: B.Eng. in CS at WUST. M.Sc. in CS at CityUHK. 
 <br> - **Co-1st Author**: NAR\*1. 
@@ -41,7 +41,7 @@
   <figcaption>ESFJ-A</figcaption>
 </figure>
 <div markdown="1">
-**Chengshang Lyu**, RA (June 2024 - Aug 2024), Ph.D. student in BMS (Sep 2024 - Now). 
+**LYU Chengshang**, RA (June 2024 - Aug 2024), Ph.D. student in BMS (Sep 2024 - Now). 
 <br> - **Contact**: `cs.lyu@my.cityu.edu.hk` [`Personal Page`](https://me.lvcs.top/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/chengshang-lyu/) 
 <br> - **Background**: B.Eng. in Information Engineering at XJTU. M.Eng. in Bioinformatics at UCAS. 
 <br> - **Co-Author**: NAR\*1. 
