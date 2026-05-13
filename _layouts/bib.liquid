@@ -67,6 +67,21 @@
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
+
+        {%- assign author_is_member = false -%}
+        {%- if entry.member and entry.member != "" -%}
+          {%- assign member_list = entry.member | split: ' and ' -%}
+          {%- for member in member_list -%}
+            {%- assign member_parts = member | split: ',' -%}
+            {%- assign member_last  = member_parts[0] | strip | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+            {%- assign member_first = member_parts[1] | strip -%}
+            {%- if member_last == author_last_name and member_first == author.first -%}
+              {%- assign author_is_member = true -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
         {% if site.data.coauthors[clean_last_name] %}
@@ -84,7 +99,7 @@
           {%- endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
-        {%- if author_is_self -%}
+        {%- if author_is_self or author_is_member -%}
           <em>
             {{- author.first }}
             {{ author_last_html -}}
