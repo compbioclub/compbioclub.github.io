@@ -9,21 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-publications",
-              title: "Publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
-              },
-            },{id: "dropdown-manuscripts",
-              title: "Manuscripts",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/manuscripts/";
-              },
-            },{id: "nav-people",
+  },{id: "nav-research",
+          title: "Research",
+          description: "The publications and manuscripts listed here are those affiliated with CompBioClub. For complete lists, see the members&#39; scholar pages.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-people",
           title: "People",
           description: "Only CompBioClub-affiliated publications in high-impact journals are counted here. For complete lists, see the members&#39; scholar pages.",
           section: "Navigation",
