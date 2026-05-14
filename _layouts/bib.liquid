@@ -1,6 +1,10 @@
 ---
 ---
-<div class="row">
+{%- assign entry_topics = "" -%}
+{%- if entry.topic and entry.topic != "" -%}
+  {%- assign entry_topics = entry.topic | downcase | replace: ' ', '' -%}
+{%- endif -%}
+<div class="row bib-entry" data-topic="{{ entry_topics }}" data-peerreviewed="{{ entry.peerreviewed | default: 'false' }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}

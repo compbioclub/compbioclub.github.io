@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-+ **Detecting Haplotype- and Clone-Specific Copy Number Aberrations in Single-Cell DNA Sequencing Data. CityUHK Internal Grant**. REG-Small Scale. PI. (01/05/26-30/04/26)
++ **Detecting Haplotype- and Clone-Specific Copy Number Aberrations in Single-Cell DNA Sequencing Data**. CityUHK Internal Grant. REG-Small Scale. PI. (01/05/26-30/04/26)
 
 + **Detecting the Mitochondrial Transfer in Tumor Microenviroment**. SMRF-SMART Fund (Youth Project). PI. (01/01/26-31/12/28)
 
