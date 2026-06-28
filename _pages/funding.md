@@ -7,11 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-+ **Detecting Haplotype- and Clone-Specific Copy Number Aberrations in Single-Cell DNA Sequencing Data**. CityUHK Internal Grant. REG-Small Scale. PI. (01/05/26-30/04/26)
++ **Single-Cell DNA Copy Number Calling with Structural Information Theory**. GRC-General Research Fund (RGF). PI. (01/01/27-31/12/29)
+
++ **The Virtual Lab Manager: An Interactive AI-Agent Simulation Platform for Cyber Resilience and Quality Management in Medical Laboratory Science**. CityUHK Internal Grant. TDG. PI. (01/07/26-31/12/27)
+
++ **Detecting Haplotype- and Clone-Specific Copy Number Aberrations in Single-Cell DNA Sequencing Data**. CityUHK Internal Grant. REG-Small Scale. PI. (01/05/26-30/04/27)
 
 + **Detecting the Mitochondrial Transfer in Tumor Microenviroment**. SMRF-SMART Fund (Youth Project). PI. (01/01/26-31/12/28)
 
-+ **Structural Information Theory and Its Applications to Spatiotemporal Dynamics in Spatial Transcriptomics**. GRC-Early Career Scheme (ECS). PI. (01/09/25-31/08/27)
++ **Structural Information Theory and Its Applications to Spatiotemporal Dynamics in Spatial Transcriptomics**. GRC-Early Career Scheme (ECS). PI. (01/09/25-31/08/28)
 
 + **Integrated Spatial Transcriptome Analysis and Algorithms for AI-Enabled Cancer Diagnosis**. NSFC-Young Scientist Fund (Type C). PI. (01/01/25-31/12/27)
 
