@@ -23,6 +23,7 @@ nav_order: 5
 
 
 |:-:|:-:|:-:|
-| <img src="../assets/img/funding/BMS_Logo_Eng_RGB.png" height="50"> | <img src="../assets/img/funding/tbsc_logo_eng_CMYK.svg" height="50">  |  <img src="../assets/img/funding/ugc_logo.png" height="50"> | 
+| <img src="../assets/img/funding/BMS_Logo_Eng_RGB.png" height="50"> | <img src="../assets/img/funding/tbsc_logo_eng_CMYK.svg" height="50">  |  <img src="../assets/img/funding/ted_eng_cmyk.svg" height="50"> | 
 
-| <img src="../assets/img/funding/smart_logo.png" height="50"> |<img src="../assets/img/funding/nsfc.png" height="100">  | 
+| <img src="../assets/img/funding/ugc_logo.png" height="50"> | <img src="../assets/img/funding/smart_logo.png" height="50"> |<img src="../assets/img/funding/nsfc.png" height="100">  | 
+

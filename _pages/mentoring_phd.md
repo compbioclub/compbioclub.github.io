@@ -8,9 +8,9 @@ nav: false
 
 If you’re interested in pursuing a PhD in computational biology with CompBioClub, please read the information below carefully and follow the instructions.
 
-#### General Requirement
-+   GPA 3.6+/4.0, average grade 85+ (**Compulsory**)    
-+   IELTS 6.5+ or TOEFL 79+ (**Compulsory**)                         
+#### General Requirements
++   GPA 3.6+/4.0, average grade 85+ (**Compulsory**) This is related with the CityUHK's entrance requirement!
++   IELTS 6.5+ or TOEFL 79+ (**Compulsory**) This is related with the CityUHK's entrance requirement!                         
 +   Has at least one first or co-first JCR top 10% journals (**Preferred**)
 +   Having background from **programming/algorithm** side (Computer Science, Data Science, Artifical Intelligence, Software Engineering, etc.) or **domain** side (Biology, Bioinformatics, etc.) 
 +   **Passion for Learning**: We are looking for individuals with a strong desire to expand their knowledge in both computer science and biomedical science.
@@ -40,7 +40,7 @@ If you’re interested in pursuing a PhD in computational biology with CompBioCl
 
 ##### Step 1: Email to `lingxi.chen@cityu.edu.hk`
 - Submit a `Cover Letter` that clearly outlines your **education experience**, **research experience**, and **future research interests**. Attach your `CV` and `transcripts` (Bachelor’s and, if applicable, Master’s).
-- For applicants with a primary background in computer science: `describe your active coding contributions to open‑source projects in your Cover Letter`.
+- For applicants with a primary background in computer science: `describe your active coding contributions to open‑source projects in your Cover Letter`, share `your GitHub repo or other code samples`.
 - For applicants with a biomedical background: `explain how your domain expertise can contribute to the development of our algorithms in your Cover Letter`.
 - Explicitly include your **GPA**, **IELTS score**, and **(co)-1st publications** in the email.
 - `Incomplete inquiries (missing any of the above materials) will not be considered`.
