@@ -1,6 +1,24 @@
 ---
 ---
 
+@article{CRISGI,
+  title={Charting critical transient gene interactions in disease progression across bulk, single-cell, and spatial transcriptomics},
+  author={Lyu, Chengshang and Jiang, Anna and Ng, Ka Ho and Liu, Xiaoyu and Liu, Xiaoping and Chen*, Lingxi},
+  journal={Genome Biology (Accepted)},
+  year={2026},
+  doi={},
+  website={https://compbioclub.github.io/CRISGI/},
+  preview={CRISGI.jpg},
+  bibtex_show={true},
+  selected={true},
+  peerreviewed={true},
+  member={Jiang, Anna and Ng, Ka Ho and Lyu, Chengshang and Liu, Xiaoyu},
+  topic={Critical Transition, GRN, AI, scRNA, ST, Cancer},
+  abstract={
+  Critical transitions (CTs) in gene regulatory networks presage abrupt disease shifts, yet existing tools rank signals unsupervisedly at gene/module level, use unweighted enrichments, and underuse multimodal data. We present CRISGI, which models interaction-level CT dynamics across bulk, single-cell, and spatial transcriptomics, providing pheno- and obs-level CT-score rank enrichment and CT presence/onset prediction. CRISGI outperforms existing methods on in silico benchmarks, prioritizes 128 symptom-onset-predictive interactions in H3N2 influenza with eight external validation datasets, uncovers stage-specific survival-linked interactions across TCGA cohorts, highlights CDK--FOXO interactions in colorectal cancer cells, and links LUM-centric interactions to invasive breast-tumor regions, yielding testable mechanistic hypotheses.
+  },
+}
+
 
 @article{liao2026synergistic,
   title={Synergistic Inhibition of Notch Signaling and Forced Cell Cycle Re-entry Drive M{\"u}ller Glia Reprogramming in Uninjured Mouse Retina},
@@ -12,7 +30,7 @@
   doi={10.7554/eLife.111251.1},
   preview={pub.png},
   bibtex_show={true},
-  selected={false},
+  selected={true},
   peerreviewed={true},  
   member={Lyu, Chengshang},
   topic={Retina, scRNA},
@@ -110,22 +128,6 @@ Conclusion: BPformer effectively addresses the interpretability challenges faced
   abstract={Survival prediction from high-dimensional biomedical data is frequently compromised by distribution shifts across multi-center cohorts, where models trained on specific populations often rely on spurious correlations that fail to generalize to new environments. While recent independence-driven reweighting techniques attempt to mitigate this, they typically treat patients as isolated instances, neglecting the intrinsic topological structures and biological pathways shared within patient populations. To address this limitation, we propose InvGraphCox (Invariant Graph Cox), a novel framework that integrates graph-structured representation learning with robust survival modeling. InvGraphCox constructs a k-nearest-neighbor patient graph to capture local manifold structures and employs a Variational Graph Autoencoder (VGAE) combined with a cohort-wise alignment mechanism to learn low-dimensional patient embeddings that are invariant to site-specific biases. We comprehensively evaluate the framework across three distinct experimental settings: the Curated Top-100 Gene Benchmark for stable biomarker identification, large-scale, high-dimensional transcriptomic datasets (Ovarian and Breast Cancer) for unsupervised representation learning, and clinical datasets (Breast and Lung Cancer) involving mixed-type covariates. Experimental results demonstrate that InvGraphCox consistently outperforms state-of-the-art baselines in terms of discrimination, calibration, and risk stratification, confirming its ability to extract robust, biologically meaningful representations in heterogeneous healthcare settings.}
 }
 
-@article{CRISGI,
-  title={Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions},
-  author={Lyu, Chengshang and Jiang, Anna and Ng, Ka Ho and Liu, Xiaoyu and Chen*, Lingxi},
-  journal={Preprint-Under Review},
-  year={2025},
-  doi={10.1101/2025.04.18.649619},
-  website={https://compbioclub.github.io/CRISGI/},
-  preview={crisgi.png},
-  bibtex_show={true},
-  selected={false},
-  peerreviewed={false},
-  poster={crisgi_poster.png},
-  member={Jiang, Anna and Ng, Ka Ho and Lyu, Chengshang and Liu, Xiaoyu},
-  topic={Critical Transition, GRN, AI, scRNA, ST, Cancer},
-  abstract={Early detection of respiratory virus infections, such as influenza A (H3N2), is critical for timely intervention and disease management. Conventional biomarkers often overlook the complex and dynamic nature of gene regulatory changes, while existing predictive models frequently lack automation and robust external validation. Thus, we present CRISGI (Critical tran-Sient Gene Interaction), a computational framework that detects early-warning signals of infection by identifying dynamic changes in gene-gene interactions—termed critical transient interactions—from bulk RNA-seq data. CRISGI leverages critical transition (CT) theory to capture a GRN’s unstable intermediate state, known as the CT stage, before irreversible phenotypic shifts. Applied to a human challenge study with H3N2, CRISGI identified 128 critical transition edges (128-TER). These were used to train predictive models capable of forecasting symptom status and onset timing. 128-TER was then validated across six temporal transcriptomic datasets involving three respiratory viruses (H3N2, H1N1, HRV). The 128-TER consistently distinguished symptomatic individuals, predicted infection onset, and revealed phenotype-specific enrichment patterns. Notably, CRISGI captured immune-related transitions involving interferon-stimulated genes (e.g., IFIT1, CXCL10), underscoring their role in early host defense. CRISGI advances early-warning biomarker discovery by integrating interaction-level dynamics and predictive modeling. Its reproducibility across viruses highlights shared immune activation pathways, supporting its utility in both research and clinical contexts.},
-}
 
 @article{GREA,
   title={Knowledge-driven annotation for gene interaction enrichment analysis},

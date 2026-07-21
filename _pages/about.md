@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 <img src='/assets/img/compbioclub.jpg' width='100%' height='100%'>
 
 ### Openings
-> We are seeking talented and passionate <a href="/mentoring_phd">PhD candidates</a>, <a href="/mentoring_ra">research assistants</a>.
+> We are seeking talented and passionate <a href="/mentoring_phd">PhD candidates</a>, <a href="/mentoring_postdoc">PostDoc</a>, <a href="/mentoring_ra">research assistants</a>.
 
 > We are seeking talented and passionate <a href="/mentoring_ug">CityU undergraduates</a> for Final Year Projects (e.g., BMS4006/BMS4206), research guidance (e.g., BMS1700/BMS1701), or campus internship schemes (e.g., CS‑PMS).
 
