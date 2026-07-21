@@ -3,6 +3,45 @@
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
+    <img src="../assets/img/favicon.ico" 
+    style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
+  <figcaption>INTJ</figcaption>
+</figure>
+<div markdown="1">
+**NG Ka Ho**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+<br> - **Background**: B.Sc. in Computer Science at CityUHK. 
+<br> - **Interest**: `Deep Learning`, `Copy Number Abberation`.
+</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
+<figure style="display:inline-flex; flex-direction:column; align-items:center;">
+    <img src="../assets/img/favicon.ico" 
+    style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
+  <figcaption>INTJ</figcaption>
+</figure>
+<div markdown="1">
+**XU Zheng**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+<br> - **Background**: B.Eng. in Software Engineering at NWPU.
+<br> - **Interest**: `Deep Learning`, `Survival Modelling`, `Single-Cell/Spatial Multi-Omics`.     
+</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
+<figure style="display:inline-flex; flex-direction:column; align-items:center;">
+    <img src="../assets/img/favicon.ico" 
+    style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
+  <figcaption>INFJ</figcaption>
+</figure>
+<div markdown="1">
+**IP Chou Hou**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+<br> - **Background**: B.Sc. in Immunology at UToronto. M.Sc. in Health Science and Management at CityUHK. 
+<br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
+</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
+<figure style="display:inline-flex; flex-direction:column; align-items:center;">
     <img src="../assets/img/liuyanran.jpg" 
     style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
   <figcaption>ENFP-A</figcaption>
@@ -27,7 +66,7 @@
 <br> - **Contact**: `anna.jiang@my.cityu.edu.hk` [`Personal Page`](https://fanjiangchenghe.github.io/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/anna-jiang/) 
 <br> - **Background**: B.Eng. in CS at WUST. M.Sc. in CS at CityUHK. 
 <br> - **Co-1st Author**: NAR\*1. 
-<br> - **Co-Author**: AS\*1. 
+<br> - **Co-Author**: AS\*1. GB\*1.
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`, `Mitochondrial Transfer`, `Copy Number Abberation`
 </div>
 </div>
@@ -44,7 +83,8 @@
 **LYU Chengshang**, RA (June 2024 - Aug 2024), Ph.D. student in BMS (Sep 2024 - Now). 
 <br> - **Contact**: `cs.lyu@my.cityu.edu.hk` [`Personal Page`](https://me.lvcs.top/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/chengshang-lyu/) 
 <br> - **Background**: B.Eng. in Information Engineering at XJTU. M.Eng. in Bioinformatics at UCAS. 
-<br> - **Co-Author**: NAR\*1. 
+<br> - **1st-Author**: GB\*1. 
+<br> - **Co-Author**: NAR\*1. eLfie\*1.
 <br> - **Award**: *Best Poster Presentation of CityUHK BMS-SYSY BME Joint Research Gala 2025*. *CityuHK Research Tuition Scholarship 2024/25*. *BMS Postgraduate Research Output Award 2024/25*. 
 <br> - **Interest**: `Dynamic Network Biomarker`, `Sample Specific Network`, `Gene Regulatory Network`, `Single-Cell/Spatial Multi-Omics`.
 </div>
