@@ -8,9 +8,10 @@
   <figcaption>INTJ</figcaption>
 </figure>
 <div markdown="1">
-**NG Ka Ho**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+**NG Ka Ho**, PMS placement (2024 - 2025). Ph.D. student in BMS (Sep 2026 - Now). Offer Accepted. 
 <br> - **Background**: B.Sc. in Computer Science at CityUHK. 
-<br> - **Interest**: `Deep Learning`, `Copy Number Abberation`.
+<br> - **Co-Author**: NAR\*1. GB\*1.
+<br> - **Interest**: `Deep Learning`, `Survival Modelling`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
 </div>
 
@@ -18,12 +19,12 @@
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
     <img src="../assets/img/favicon.ico" 
     style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
-  <figcaption>INTJ</figcaption>
+  <figcaption>INTP</figcaption>
 </figure>
 <div markdown="1">
-**XU Zheng**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+**XU Zheng**, Ph.D. student in BMS (Sep 2026 - Now). Offer Accepted. 
 <br> - **Background**: B.Eng. in Software Engineering at NWPU.
-<br> - **Interest**: `Deep Learning`, `Survival Modelling`, `Single-Cell/Spatial Multi-Omics`.     
+<br> - **Interest**: `Deep Learning`, `Copy Number Abberation`.
 </div>
 </div>
 
@@ -34,7 +35,7 @@
   <figcaption>INFJ</figcaption>
 </figure>
 <div markdown="1">
-**IP Chou Hou**, Offer Accepted. Ph.D. student in BMS (Sep 2026 - Now). 
+**IP Chou Hou**, Ph.D. student in VM (Sep 2026 - Now). Offer Accepted. 
 <br> - **Background**: B.Sc. in Immunology at UToronto. M.Sc. in Health Science and Management at CityUHK. 
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
@@ -64,7 +65,7 @@
 <div markdown="1">
 **JIANG Anna**, RA (Aug 2024 - Aug 2025), Ph.D. student in BMS (Sep 2025 - Now). 
 <br> - **Contact**: `anna.jiang@my.cityu.edu.hk` [`Personal Page`](https://fanjiangchenghe.github.io/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/anna-jiang/) 
-<br> - **Background**: B.Eng. in CS at WUST. M.Sc. in CS at CityUHK. 
+<br> - **Background**: B.Eng. in Computer Science at WUST. M.Sc. in Computer Science at CityUHK. 
 <br> - **Co-1st Author**: NAR\*1. 
 <br> - **Co-Author**: AS\*1. GB\*1.
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`, `Mitochondrial Transfer`, `Copy Number Abberation`
