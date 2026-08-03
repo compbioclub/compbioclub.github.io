@@ -3,21 +3,22 @@
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
-    <img src="../assets/img/favicon.ico" 
+    <img src="../assets/img/simon.jpeg" 
     style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
   <figcaption>INTJ</figcaption>
 </figure>
 <div markdown="1">
-**NG Ka Ho**, PMS placement (2024 - 2025). Ph.D. student in BMS (Sep 2026 - Now). Offer Accepted. 
+**NG Ka Ho**, UG PMS placement (2024 - 2025). Ph.D. student in BMS (Sep 2026 - Now). 
 <br> - **Background**: B.Sc. in Computer Science at CityUHK. 
 <br> - **Co-Author**: NAR\*1. GB\*1.
 <br> - **Interest**: `Deep Learning`, `Survival Modelling`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
 </div>
 
+<!--
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
-    <img src="../assets/img/favicon.ico" 
+    <img src="../assets/img/favicon.jpeg" 
     style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
   <figcaption>INTP</figcaption>
 </figure>
@@ -40,6 +41,8 @@
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
 </div>
+
+-->
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
