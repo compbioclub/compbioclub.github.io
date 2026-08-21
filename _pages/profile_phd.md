@@ -15,15 +15,15 @@
 </div>
 </div>
 
-<!--
+
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
-    <img src="../assets/img/favicon.jpeg" 
+    <img src="../assets/img/favicon.ico" 
     style="width:120px; height:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
   <figcaption>INTP</figcaption>
 </figure>
 <div markdown="1">
-**XU Zheng**, Ph.D. student in BMS (Sep 2026 - Now). Offer Accepted. 
+**XU Zheng**, Ph.D. student in BMS (Sep 2026 - Now). 
 <br> - **Background**: B.Eng. in Software Engineering at NWPU.
 <br> - **Interest**: `Deep Learning`, `Copy Number Abberation`.
 </div>
@@ -36,13 +36,13 @@
   <figcaption>INFJ</figcaption>
 </figure>
 <div markdown="1">
-**IP Chou Hou**, Ph.D. student in VM (Sep 2026 - Now). Offer Accepted. 
+**IP Chou Hou**, Ph.D. student in VM (Sep 2026 - Now). 
 <br> - **Background**: B.Sc. in Immunology at UToronto. M.Sc. in Health Science and Management at CityUHK. 
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
 </div>
 
--->
+
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
