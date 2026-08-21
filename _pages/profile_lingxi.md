@@ -11,7 +11,7 @@
 <br> - **Interest**: `Single-Cell and Spatial Omics`, `Genomic Structural Aberrations`, `AI in Healthcare`, `Online Biomedical Platforms`. 
 </div>
 <figure style="display:inline-flex; flex-direction:column; align-items:center;">
-    <img src="../assets/img/chenlingxi.jpg" 
+    <img src="../assets/img/clx.png" 
     style="width:120px; border-radius:0.75rem; object-fit:cover; flex-shrink:0"> 
   <figcaption>INFP-A</figcaption>
 </figure>
