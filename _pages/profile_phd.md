@@ -9,6 +9,7 @@
 </figure>
 <div markdown="1">
 **NG Ka Ho**, UG PMS placement (2024 - 2025). Ph.D. student in BMS (Sep 2026 - Now). 
+<br> - **Contact**: `kahng223-c@my.cityu.edu.hk` [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/ka-ho-ng-2/) 
 <br> - **Background**: B.Sc. in Computer Science at CityUHK. 
 <br> - **Co-Author**: NAR\*1. GB\*1.
 <br> - **Interest**: `Deep Learning`, `Survival Modelling`, `Single-Cell/Spatial Multi-Omics`.     
@@ -24,6 +25,7 @@
 </figure>
 <div markdown="1">
 **XU Zheng**, Ph.D. student in BMS (Sep 2026 - Now). 
+<br> - **Contact**: `zxu449-c@my.cityu.edu.hk` [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/zheng-xu/) 
 <br> - **Background**: B.Eng. in Software Engineering at NWPU.
 <br> - **Interest**: `Deep Learning`, `Copy Number Abberation`.
 </div>
@@ -36,12 +38,12 @@
   <figcaption>INFJ</figcaption>
 </figure>
 <div markdown="1">
-**IP Chou Hou**, Ph.D. student in VM (Sep 2026 - Now). 
+**IP Chon Hou**, Ph.D. student in VM (Sep 2026 - Now). 
+<br> - **Contact**: `chonhouip2-c@my.cityu.edu.hk` [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/chon-hou-ip/) 
 <br> - **Background**: B.Sc. in Immunology at UToronto. M.Sc. in Health Science and Management at CityUHK. 
-<br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
+<br> - **Interest**: `Immunology`, `Deep Learning`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
 </div>
-
 
 
 <div style="display:flex; align-items:flex-start; gap:1.2rem; padding:1.2rem;">
@@ -52,7 +54,7 @@
 </figure>
 <div markdown="1">
 **LIU Yanran**, RA (April 2026 - Aug 2026), Ph.D. student in BMS (Sep 2026 - Now). 
-<br> - **Contact**: `yanranliu7-c@my.cityu.edu.hk` [`Personal Page`](https://liuyanran666.github.io/) 
+<br> - **Contact**: `yanranliu7-c@my.cityu.edu.hk` [`Personal Page`](https://liuyanran666.github.io/) [`CityUHK Scholar`](https://scholars.cityu.edu.hk/en/persons/yanran-liu-2/) 
 <br> - **Background**: B.Eng. in Financial Engineering at DLMU. M.Sc. in Information System at CityUHK. 
 <br> - **Interest**: `Deep Learning`, `Gene Regulatory Network`, `Spatial Domains`, `Single-Cell/Spatial Multi-Omics`.     
 </div>
@@ -71,6 +73,7 @@
 <br> - **Background**: B.Eng. in Computer Science at WUST. M.Sc. in Computer Science at CityUHK. 
 <br> - **Co-1st Author**: NAR\*1. 
 <br> - **Co-Author**: AS\*1. GB\*1.
+<br> - **Award**: *CityUHK Research Tuition Scholarship 2025/26*. *CityUHK Outstanding Academic Performance Award 2025/26*. 
 <br> - **Interest**: `Deep Learning`, `Single-Cell/Spatial Multi-Omics`, `Mitochondrial Transfer`, `Copy Number Abberation`
 </div>
 </div>
@@ -89,7 +92,7 @@
 <br> - **Background**: B.Eng. in Information Engineering at XJTU. M.Eng. in Bioinformatics at UCAS. 
 <br> - **1st-Author**: GB\*1. 
 <br> - **Co-Author**: NAR\*1. eLfie\*1.
-<br> - **Award**: *Best Poster Presentation of CityUHK BMS-SYSY BME Joint Research Gala 2025*. *CityuHK Research Tuition Scholarship 2024/25*. *BMS Postgraduate Research Output Award 2024/25*. 
+<br> - **Award**: *Best Poster Presentation of CityUHK BMS-SYSY BME Joint Research Gala 2025*. *CityUHK Research Tuition Scholarship 2024/25*. *BMS Postgraduate Research Output Award 2024/25*. 
 <br> - **Interest**: `Dynamic Network Biomarker`, `Sample Specific Network`, `Gene Regulatory Network`, `Single-Cell/Spatial Multi-Omics`.
 </div>
 </div>
